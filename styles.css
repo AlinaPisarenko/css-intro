@@ -1,0 +1,64 @@
+
+
+.container {
+    background-color: rgba(137, 43, 226, 0.377);
+    border: 5px solid  rgb(137, 43, 226);
+    width: 90vw;
+    height: 90vh;
+    margin: 0 auto;
+  }
+  .child {
+    height: 8rem;
+    width: 8rem;
+    border: 2px solid rgb(255, 255, 255);
+    color: aliceblue;
+    font-size: 3rem;
+  }
+  #one {
+    background-color: rgb(223, 93, 93);
+  }
+
+  #two {
+    background-color: rgb(101, 127, 221);
+  }
+  
+  #three {
+    background-color: rgb(151, 235, 157);
+  }
+  
+  #four {
+    background-color: rgb(76, 157, 187);
+  }
+  
+  #five {
+    background-color: rgb(223, 219, 93);
+  }
+  
+  
+  * {
+  
+  }
+  
+  body {
+  
+  }
+  
+  h2 {
+  
+  }
+  
+  .class-name {
+  
+  }
+  
+  #id-name {
+  
+  }
+  
+  .class-name h3 {
+  
+  }
+  
+  #id-name h3 {
+    
+  }
