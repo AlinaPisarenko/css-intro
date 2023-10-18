@@ -50,11 +50,11 @@
   }
   
   .class-name {
-  
+  color: aliceblue;
   }
   
   #id-name {
-  
+  color: aliceblue;
   }
   
   .class-name h3  {
@@ -62,5 +62,5 @@
   }
   
   #id-name h3 {
-    
+  color: aliceblue;
   }
